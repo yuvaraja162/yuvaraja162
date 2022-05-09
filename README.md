@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yuvaraja162
-- 👀 I’m interested in Android
-- 🌱 I’m currently learning Android Application Development
-- 📫 How to reach me ...
+- 👀 I’m interested in App Development
+- 🌱 I’m currently learning Android Application Development(Java, Flutter)
+- 📫 How to reach me yuvakraja162@gmail.com
 
 <!---
 yuvaraja162/yuvaraja162 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
