@@ -2,6 +2,7 @@
 - 👀 I’m interested in App Development
 - 🌱 I’m currently learning Android Application Development(Java, Flutter)
 - 📫 How to reach me yuvakraja162@gmail.com
+- 👋 Linkedin linkedin.com/in/yuvaraja-kandasamy
 
 <!---
 yuvaraja162/yuvaraja162 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
