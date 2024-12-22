@@ -11,7 +11,7 @@
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages**: Dart, JavaScript, Python  
+- **Languages**: Dart, TypeScript, Python  
 - **Frameworks**: Flutter, Node.js  
 - **Databases**: Firebase, Supabase, PostgreSQL  
 - **Tools**: Git, VS Code, Xcode, Android Studio  
