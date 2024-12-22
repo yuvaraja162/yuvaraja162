@@ -1,10 +1,37 @@
-- 👋 Hi, I’m @yuvaraja162
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning Android Application Development(Java, Flutter)
-- 📫 How to reach me yuvakraja162@gmail.com
-- 👋 Linkedin https://linkedin.com/in/yuvaraja-kandasamy
+# 👋 Hi, I'm Yuvaraja Kandasamy 
 
-<!---
-yuvaraja162/yuvaraja162 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌟 **Flutter Developer** | 💡 Tech Enthusiast | 🌍 Open-Source Contributor  
+
+---
+
+## 🔗 Connect with Me  
+- 💼 **LinkedIn**: [linkedin.com/in/yuvaraja-kandasamy](https://www.linkedin.com/in/yuvaraja-kandasamy)  
+- 📧 **Email**: [yuvakraja162@gmail.com](mailto:yuvakraja162@gmail.com)  
+
+---
+
+## 🛠️ Tech Stack  
+- **Languages**: Dart, JavaScript, Python  
+- **Frameworks**: Flutter, Node.js  
+- **Databases**: Firebase, Supabase, PostgreSQL  
+- **Tools**: Git, VS Code, Xcode, Android Studio  
+- **Other Skills**: UI/UX Design, Cross-Platform Development  
+
+---
+
+## 🌱 What I’m Learning  
+- 🤖 Machine Learning and AI Basics  
+- 🌐 Advanced Flutter Animations  
+- 💻 Backend Development with NestJS  
+
+---
+
+## ✨ Fun Facts  
+- 🖌️ I love designing intuitive and engaging UI/UX experiences.  
+- 📚 Avid reader and lifelong learner.  
+- 🎮 In my free time, I’ll explore new tech trends.  
+
+---
+
+## 💡 Let’s Build Something Awesome Together!  
+I’m always open to exciting collaborations and innovative ideas. Feel free to reach out!  
