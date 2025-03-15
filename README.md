@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yuvaraja Kandasamy 
 
-🌟 **Flutter Developer** | 💡 Tech Enthusiast | 🌍 Open-Source Contributor  
+🌟 **Flutter Developer** | 💡 Tech Enthusiast 
 
 ---
 
